@@ -1,3 +1,0 @@
-zip -r foo.zip foo -x "*.DS_Store"
-
-zip -r repo_shell.zip "COS30031 - 1234567x" -x "*.DS_Store"
